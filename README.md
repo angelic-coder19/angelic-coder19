@@ -5,7 +5,7 @@
 - 📫 How to reach me: angelyuzya7@gmail.com or you can call +260 769707390
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I a proud tech nerd!
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelic-coder19&theme=tokyonight)
 <!---
 angelic-coder19/angelic-coder19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
